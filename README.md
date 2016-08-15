@@ -1,7 +1,7 @@
-The Art of Literary Text Analysis
+Randolph Family Dental Mobile Application
 ====
 
-Randolph Family Dental Mobile Application
+
 
 This application is developed to deliver the unique information on how Randolph Family Dental offers the service with love and passion.
 
